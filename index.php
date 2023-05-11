@@ -63,14 +63,14 @@
         <div class="container">
             <div class="row">
                 <div class="col-12 ">
-<div class="content-wrap">
-<div class="content">
-                        <h1 class="content__title">make your<br>
-                            brand thrive.</h1>
+                    <div class="content-wrap">
+                        <div class="content">
+                            <h1 class="content__title">Amplify</h1>
+                            <h3 class="content__subtitle">Influence</h3>
+                        </div>
+
                     </div>
-   
-</div> 
-            </div>
+                </div>
             </div>
         </div>
     </section>
