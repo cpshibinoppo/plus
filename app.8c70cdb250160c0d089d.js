@@ -454,7 +454,7 @@
           {
             key: "addAmbientLight",
             value: function () {
-              var t = { color: "#ff0000" },
+              var t = { color: "#cb333e" },
                 e = new THREE.AmbientLight(t.color, 1);
               this.scene.add(e),
                 this.gui
@@ -468,7 +468,7 @@
           {
             key: "addSpotLight",
             value: function () {
-              var t = { color: "#ff0000" },
+              var t = { color: "#cb333e" },
                 e = new THREE.SpotLight(t.color, 1, 1e3);
               e.position.set(0, 27, 0),
                 (e.castShadow = !0),
@@ -484,7 +484,7 @@
           {
             key: "addRectLight",
             value: function () {
-              var t = { color: "#ff0000" },
+              var t = { color: "#cb333e" },
                 e = new THREE.RectAreaLight(t.color, 1, 2e3, 2e3);
               e.position.set(5, 50, 50),
                 e.lookAt(0, 0, 0),
@@ -517,7 +517,7 @@
             value: function () {
               this.groupMesh = new THREE.Object3D();
               var t = {
-                  color: "#ff0000",
+                  color: "#cb333e",
                   metalness: 0.58,
                   emissive: "#000000",
                   roughness: 0.18,

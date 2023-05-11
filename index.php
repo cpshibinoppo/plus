@@ -15,7 +15,7 @@
     <script src="./OrbitControls.js"></script>
     <link rel="stylesheet" href="https://use.typekit.net/zjs0dpp.css" />
     <script src="https://cdn.jsdelivr.net/npm/dat.gui@0.7.9/build/dat.gui.min.js"> </script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.20.3/TweenMax.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.20.3/TweenMax.min.js"></script>
 
     <title>Equity Plus</title>
 </head>
@@ -58,12 +58,19 @@
         </nav>
     </div>
     <!-- navbar end-->
-        <!-- top section start -->
-        <section class="top-setcion">
+    <!-- top section start -->
+    <section class="top-setcion">
         <div class="container">
             <div class="row">
-                <div class="col-12">
-                </div>
+                <div class="col-12 ">
+<div class="content-wrap">
+<div class="content">
+                        <h1 class="content__title">make your<br>
+                            brand thrive.</h1>
+                    </div>
+   
+</div> 
+            </div>
             </div>
         </div>
     </section>
@@ -74,13 +81,13 @@
             <div class="col-6">
                 <div class="header-wrap">
                     <div class="maintext">
-                    <h1>being<br>
-                        eventful</h1>
+                        <h1>being<br>
+                            eventful</h1>
                     </div>
                     <div class="subtext">
                         <p>Loremlpsum is simply dummy text of the printing <br>
-                    and typesetting industry. Lorem ipsum has been <br>
-                the industry's dummy text,</p>
+                            and typesetting industry. Lorem ipsum has been <br>
+                            the industry's dummy text,</p>
                     </div>
                 </div>
 
@@ -117,9 +124,7 @@
     <!-- </div> -->
     <script src="main.js"></script>
     <script src="app.8c70cdb250160c0d089d.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.4/jquery.min.js"
-        integrity="sha512-pumBsjNRGGqkPzKHndZMaAG+bir374sORyzM3uulLV14lN5LyykqNk8eEeUlUkB3U0M4FApyaHraT65ihJhDpQ=="
-        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.4/jquery.min.js" integrity="sha512-pumBsjNRGGqkPzKHndZMaAG+bir374sORyzM3uulLV14lN5LyykqNk8eEeUlUkB3U0M4FApyaHraT65ihJhDpQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 </body>
 
 </html>
