@@ -11,6 +11,11 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"></script>
     <!-- GSAP CDN -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.5/gsap.min.js"></script>
+    <script src="./three.r123.min.js"></script>
+    <script src="./OrbitControls.js"></script>
+    <link rel="stylesheet" href="https://use.typekit.net/zjs0dpp.css" />
+    <script src="https://cdn.jsdelivr.net/npm/dat.gui@0.7.9/build/dat.gui.min.js"> </script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.20.3/TweenMax.min.js"></script>
 
     <title>Equity Plus</title>
 </head>
@@ -38,13 +43,31 @@
                 <div class="col-6">
                     <img src="img/logo/Group.svg" alt="Logo" />
                 </div>
-                <div class="col-6 d-flex justify-content-end">
-                    <img width="30" src="img/menu/menu.svg" alt="" />
+                <div class="col-6 d-flex gap-5 justify-content-end">
+                    <div>
+                        <h4> <a href="">Services</a> </h4>
+                    </div>
+                    <div>
+                        <h4> <a href="">Contact</a> </h4>
+                    </div>
+                    <div>
+                        <img width="20" src="img/icons/plus.svg" alt="" />
+                    </div>
                 </div>
             </div>
         </nav>
     </div>
     <!-- navbar end-->
+        <!-- top section start -->
+        <section class="top-setcion">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- top section end -->
     <!-- <div class="items"> -->
     <div class="container">
         <div class="row">
@@ -93,6 +116,10 @@
 
     <!-- </div> -->
     <script src="main.js"></script>
+    <script src="app.8c70cdb250160c0d089d.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.4/jquery.min.js"
+        integrity="sha512-pumBsjNRGGqkPzKHndZMaAG+bir374sORyzM3uulLV14lN5LyykqNk8eEeUlUkB3U0M4FApyaHraT65ihJhDpQ=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 </body>
 
 </html>
